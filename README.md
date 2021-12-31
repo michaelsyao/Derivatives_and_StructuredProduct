@@ -5,7 +5,7 @@ Below are highlighes of my past projects including Caliration, Exotics Derivativ
 
 ## A. SDE Model Calibration
 > Equity/Rate Model Parameter Calibration
-1. [Equity Model Calibration](BCC97_calibration_full.py)
+1. [Equity Model Calibration](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/tree/main/A_Calibration)
 2. [Rate Model Calibration](CIR_calibration.py)
 
 ## B. Derivatives Hedging
