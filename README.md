@@ -10,7 +10,7 @@ Below are highlighes of my past projects including Caliration, Exotics Derivativ
 
 ## B. Derivatives Hedging
 > Use Reinforcement Learning, Bellman Equation
-1. [Derivatives Hedging](DerivativesHedging.ipynb)
+1. [Derivatives Hedging](https://github.com/michaelsyao/Asset_Derivatives_Strategy_Projects/blob/main/B_Hedging/DerivativesHedging.ipynb)
 
 ## C. xVA
 > Application for CVA
