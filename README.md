@@ -1,4 +1,4 @@
-# Derivatives_Projects
+# Multi_Asset_Systematic_Strategy_Projects
 ```
 Below are highlighes of my past projects including Caliration, Exotics Derivatives Pricing and xVA
 ```
