@@ -1,6 +1,6 @@
-# Multi_Asset_Systematic_Strategy_Projects
+# Derivatives_Pricing.Calibation
 ```
-Below are highlighes of my past projects including Caliration, Exotics Derivatives Pricing and xVA
+This section forcus on Exotics Derivatives Pricing & Caliration as well as xVA
 ```
 ## A. FX Strategy with Reinforcement Learning
 > Equity/Rate Model Parameter Calibration
